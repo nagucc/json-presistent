@@ -1,0 +1,21 @@
+{
+  "name": "json-persistent",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagucc/json-presistent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagucc/json-presistent/issues"
+  },
+  "homepage": "https://github.com/nagucc/json-presistent#readme",
+  "main": "dist/index.js",
+  "jsnext:main": "index.es6.js",
+  "dependencies": {
+    "babel-runtime": "^6.6.1",
+    "redis": "^2.6.2"
+  }
+}

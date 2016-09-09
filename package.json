@@ -1,17 +1,18 @@
 {
-  "private": true,
-  "name": "babel-starter-kit",
-  "version": "0.0.0",
-  "description": "A project template for authoring and publishing JavaScript libraries",
-  "homepage": "https://www.kriasoft.com/babel-starter-kit/",
-  "repository": "kriasoft/babel-starter-kit",
-  "author": "Kriasoft <hello@kriasoft.com> (https://www.kriasoft.com)",
-  "contributors": [
-    "Konstantin Tarkus <hello@tarkus.me>"
-  ],
-  "license": "MIT",
-  "keywords": [],
-  "main": "index.js",
+  "name": "json-persistent",
+  "version": "0.0.2",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagucc/json-presistent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagucc/json-presistent/issues"
+  },
+  "homepage": "https://github.com/nagucc/json-presistent#readme",
+  "main": "dist/index.js",
   "jsnext:main": "index.es6.js",
   "babel": {
     "presets": [
